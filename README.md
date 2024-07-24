@@ -11,7 +11,7 @@
 
 ## :dart: Tools & Technologies 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,js,ts,react,redux,mysql,azure,heroku,git&perline=11" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,js,ts,react,mysql,azure,heroku,git&perline=11" />
 </div>
 <br>
 &nbsp;GitHub Analytics
