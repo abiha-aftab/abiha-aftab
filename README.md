@@ -14,7 +14,8 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,js,ts,react,mysql,azure,heroku,git&perline=11" />
 </div>
 <br>
-&nbsp;GitHub Analytics
+&nbsp;
+<b>GitHub Analytics</b>
 <br>
 <p align="center">
 <a href="https://github.com/abiha-aftab">
