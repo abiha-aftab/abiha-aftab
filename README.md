@@ -1,12 +1,12 @@
-### <div align="center">This is Abiha, a Full Stack Developer 👨‍💻 working since 2020 🚀</div> 
+### <div align="center">This is Abiha, a Full Stack AI Engineer 👨‍💻 working since 2020 🚀</div> 
 -----
   
 ## :technologist: About Me
 <div align="justify">
-  Full Stack Developer with a proven track record in building scalable applications. Adept at problem-solving and thriving on challenges, I consistently deliver high-quality code while adhering to project timelines. With expertise in both front-end and back-end technologies, I strive for better code quality and continuously seek ways to optimize performance. Vis
+  AI Full Stack Engineer with a strong track record of building and scaling intelligent web applications. I specialize in integrating AI/ML models into robust, user-friendly platforms, combining deep back-end expertise with modern front-end frameworks. Adept at solving complex problems, I deliver high-quality, maintainable code while meeting tight deadlines. I continuously seek performance optimizations, follow best practices, and stay up-to-date with evolving AI and full-stack technologies.
 </div>
 
-- 🔭 I’m currently working on  Angular, .Net core, React and Node e.t.c.  
+
     
 
 ## :dart: Tools & Technologies 
