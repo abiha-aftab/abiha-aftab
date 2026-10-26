@@ -28,4 +28,4 @@ Jest · Vitest · RSpec · Docker · GitHub Actions
 
 Earlier repos (2018–2020) are university coursework: Java, Android, and a MEAN-stack group project.
 
-[LinkedIn](https://www.linkedin.com/in/abiha01/)
+[LinkedIn](https://www.linkedin.com/in/abiha009/)
